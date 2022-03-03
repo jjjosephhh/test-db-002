@@ -1,4 +1,4 @@
-[
+{"people": [
   {
     "first_name": "John",
     "last_name": "Thomas",
@@ -900,3 +900,4 @@
     "age": 26
   }
 ]
+}
